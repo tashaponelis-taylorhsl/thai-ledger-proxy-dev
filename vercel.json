@@ -3,12 +3,6 @@
     "api/anthropic.js": {
       "runtime": "nodejs20.x",
       "maxDuration": 60
-    },
-    "api/vision.js": {
-      "maxDuration": 60
-    },
-    "api/qbo.js": {
-      "maxDuration": 30
     }
   }
 }
