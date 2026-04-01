@@ -1,7 +1,2 @@
-{
-  "functions": {
-    "api/anthropic.js": {
-      "runtime": "edge"
-    }
-  }
-}
+{}
+  
