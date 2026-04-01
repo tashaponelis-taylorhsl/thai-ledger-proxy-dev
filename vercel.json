@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/anthropic.js": {
-      "runtime": "nodejs20.x"
+      "runtime": "edge"
     }
   }
 }
