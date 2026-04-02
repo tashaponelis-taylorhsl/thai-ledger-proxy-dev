@@ -5,7 +5,7 @@ const QBO_BASE_PROD = "https://quickbooks.api.intuit.com/v3/company";
 
 export default async function handler(req) {
   const corsHeaders = {
-    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Origin": "https://tashaponelis-taylorhsl.github.io",
     "Access-Control-Allow-Methods": "POST, OPTIONS",
     "Access-Control-Allow-Headers": "Content-Type",
     "Content-Type": "application/json",
